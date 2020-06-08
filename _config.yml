@@ -1,1 +1,4 @@
-pace-theme: jekyll-theme-midnight
+theme: jekyll-theme-midnight
+
+title: Test
+language: ko
